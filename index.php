@@ -1,9 +1,9 @@
 <?php
 // insert your patreon webhook secret here!
-$secret_webhook_id = "secret";
+$secret_webhook_id = "_p9Ubn_hVMpPVeu3Rc1PZUqy_AJiaz4L9Y58FTt8mtTX54cufE9jRjtyElm4jw1U";
 
 // insert your discord webhook url here
-$discord_webhook = "URL";
+$discord_webhook = "https://discordapp.com/api/webhooks/750015438737637447/WOMbotMtGmP-ltEROkUmePlvYMtXFSNLalzt7lJZ86zoyG6C9lZakDXMZoYro4ounx0e";
 
 // post to discord snippet from https://www.reddit.com/r/discordapp/comments/58hry5/simple_php_function_for_posting_to_webhook/
 function postToDiscord($message, $discord_webhook) {

@@ -1,6 +1,6 @@
 <?php
 // insert your patreon webhook secret here!
-$secret_webhook_id = "_p9Ubn_hVMpPVeu3Rc1PZUqy_AJiaz4L9Y58FTt8mtTX54cufE9jRjtyElm4jw1U";
+$secret_webhook_id = "2hFukKh8mJY5aTIBkszPoXcP_j9sW7et7pi0-q9Pt-LBg9cx0cM2JZw8VG_s_bZz";
 
 // insert your discord webhook url here
 $discord_webhook = "https://discordapp.com/api/webhooks/750015438737637447/WOMbotMtGmP-ltEROkUmePlvYMtXFSNLalzt7lJZ86zoyG6C9lZakDXMZoYro4ounx0e";
